@@ -1,0 +1,659 @@
+{
+    "sumarios": [
+      {
+        "nomeDodocumento": "PPC",
+        "descricaoPrevia": "PROJETO PEDAGÓGICO DE CURSO SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS Faculdade de Tecnologia Senac Ponta Grossa 2024",
+        "sumario": [
+          {
+            "titulo": "Informações gerais sobre o curso",
+            "pagina": "3"
+          },
+          {
+            "titulo": "Organização Didático-Pedagógica",
+            "pagina": "4"
+          },
+          {
+            "titulo": "Políticas institucionais no âmbito do curso",
+            "pagina": "4"
+          },
+          {
+            "titulo": "Objetivos do curso",
+            "pagina": "7"
+          },
+          {
+            "titulo": "Justificativa da oferta do curso",
+            "pagina": "9"
+          },
+          {
+            "titulo": "Coordenador",
+            "pagina": "13"
+          },
+          {
+            "titulo": "Endereços de oferta",
+            "pagina": "13"
+          },
+          {
+            "titulo": "Perfil profissional do egresso",
+            "pagina": "14"
+          },
+          {
+            "titulo": "Componentes curriculares",
+            "pagina": "16"
+          },
+          {
+            "titulo": "Metodologia",
+            "pagina": "41"
+          },
+          {
+            "titulo": "Curricularização",
+            "pagina": "45"
+          },
+          {
+            "titulo": "Abordagem dos temas transversais: educação ambiental, educação das relações étnico-raciais e educação em direitos humanos",
+            "pagina": "48"
+          },
+          {
+            "titulo": "Acessibilidade",
+            "pagina": "50"
+          },
+          {
+            "titulo": "Estágio curricular supervisionado",
+            "pagina": "51"
+          },
+          {
+            "titulo": "Atividades complementares",
+            "pagina": "52"
+          },
+          {
+            "titulo": "Trabalho de conclusão de curso",
+            "pagina": "56"
+          },
+          {
+            "titulo": "Apoio ao discente",
+            "pagina": "57"
+          },
+          {
+            "titulo": "Programa de nivelamento",
+            "pagina": "57"
+          },
+          {
+            "titulo": "Atendimento psicopedagógico e proteção à pessoa com transtorno do espectro autista",
+            "pagina": "58"
+          },
+          {
+            "titulo": "Aconselhamento profissional ao discente",
+            "pagina": "60"
+          },
+          {
+            "titulo": "Monitoria",
+            "pagina": "61"
+          },
+          {
+            "titulo": "Acompanhamento da vida acadêmica",
+            "pagina": "62"
+          },
+          {
+            "titulo": "Acompanhamento de estágio não obrigatório",
+            "pagina": "63"
+          },
+          {
+            "titulo": "Incentivo à organização estudantil",
+            "pagina": "65"
+          },
+          {
+            "titulo": "Acompanhamento de egressos",
+            "pagina": "66"
+          },
+          {
+            "titulo": "Ouvidoria",
+            "pagina": "66"
+          },
+          {
+            "titulo": "Gestão do curso e os processos de avaliação interna e externa",
+            "pagina": "67"
+          },
+          {
+            "titulo": "Tecnologias de Informação e Comunicação (TICs) no processo ensino-aprendizagem",
+            "pagina": "72"
+          },
+          {
+            "titulo": "Procedimentos de acompanhamento e de avaliação dos processos de ensino-aprendizagem",
+            "pagina": "75"
+          },
+          {
+            "titulo": "Ações decorrentes dos processos de avaliação do curso",
+            "pagina": "80"
+          },
+          {
+            "titulo": "Número de vagas",
+            "pagina": "82"
+          },
+          {
+            "titulo": "Forma de acesso ao curso (processo seletivo)",
+            "pagina": "83"
+          },
+          {
+            "titulo": "CORPO DOCENTE",
+            "pagina": "84"
+          },
+          {
+            "titulo": "Núcleo Docente Estruturante (NDE)",
+            "pagina": "84"
+          },
+          {
+            "titulo": "Regime de trabalho da coordenação de curso",
+            "pagina": "88"
+          },
+          {
+            "titulo": "Corpo Docente: titulação e experiência",
+            "pagina": "88"
+          },
+          {
+            "titulo": "Regime de trabalho do corpo docente do curso",
+            "pagina": "90"
+          },
+          {
+            "titulo": "Atuação do colegiado de curso ou equivalente",
+            "pagina": "92"
+          },
+          {
+            "titulo": "Produção científica, cultural, artística ou tecnológica",
+            "pagina": "95"
+          },
+          {
+            "titulo": "Infraestrutura",
+            "pagina": "97"
+          },
+          {
+            "titulo": "Instalações administrativas",
+            "pagina": "97"
+          },
+          {
+            "titulo": "Salas de aula",
+            "pagina": "98"
+          },
+          {
+            "titulo": "Auditório",
+            "pagina": "98"
+          },
+          {
+            "titulo": "Salas de professores",
+            "pagina": "98"
+          },
+          {
+            "titulo": "Sala da Coordenação",
+            "pagina": "99"
+          },
+          {
+            "titulo": "Espaços para atendimento aos alunos",
+            "pagina": "99"
+          },
+          {
+            "titulo": "Infraestrutura para CPA",
+            "pagina": "100"
+          },
+          {
+            "titulo": "Gabinetes/Estações de trabalho para professores tempo integral - TI",
+            "pagina": "100"
+          },
+          {
+            "titulo": "Instalações sanitárias",
+            "pagina": "100"
+          },
+          {
+            "titulo": "Biblioteca: Infraestrutura física",
+            "pagina": "101"
+          },
+          {
+            "titulo": "Acesso dos alunos a equipamentos de informática",
+            "pagina": "102"
+          },
+          {
+            "titulo": "Biblioteca",
+            "pagina": "105"
+          },
+          {
+            "titulo": "Periódicos especializados",
+            "pagina": "108"
+          },
+          {
+            "titulo": "ANEXO A – CATÁLOGO NACIONAL DE CURSOS SUPERIORES DE TECNOLOGIA – EXTRATO REFERENTE AO CURSO",
+            "pagina": "110"
+          }
+        ]
+      },
+      {
+        "nomeDodocumento": "Manual",
+        "descricaoPrevia": "Manual da Faculdade de Tecnologia Senac Paraná - Caro Aluno (a), O presente manual contém as principais informações sobre o funcionamento da Faculdade de Tecnologia Senac Paraná, a estrutura organizacional e as normas que a regulam. O manual disponibiliza informações gerais sobre a instituição, incluindo: procedimentos acadêmicos; departamentos; apresentação da infraestrutura; serviços oferecidos; direitos e deveres do aluno; missão, visão e valores da instituição. Seja bem-vindo (a)! Faculdade de Tecnologia Senac Paraná",
+        "sumario": [
+          {
+            "titulo": "O Senac",
+            "pagina": "5"
+          },
+          {
+            "titulo": "A Faculdade Senac",
+            "pagina": "5"
+          },
+          {
+            "titulo": "Calendário acadêmico",
+            "pagina": "5"
+          },
+          {
+            "titulo": "Ofertas de cursos",
+            "pagina": "6"
+          },
+          {
+            "titulo": "Apoio ao discente",
+            "pagina": "6"
+          },
+          {
+            "titulo": "Secretaria acadêmica",
+            "pagina": "6"
+          },
+          {
+            "titulo": "CIM Central de Informações e Matrículas",
+            "pagina": "7"
+          },
+          {
+            "titulo": "Coordenação de curso",
+            "pagina": "7"
+          },
+          {
+            "titulo": "Uso do laboratório",
+            "pagina": "7"
+          },
+          {
+            "titulo": "Atualização cadastral",
+            "pagina": "8"
+          },
+          {
+            "titulo": "Rematrícula",
+            "pagina": "11"
+          },
+          {
+            "titulo": "Cancelamento de matrícula",
+            "pagina": "12"
+          },
+          {
+            "titulo": "Trancamento de matrícula",
+            "pagina": "12"
+          },
+          {
+            "titulo": "Trancamento de disciplinas",
+            "pagina": "13"
+          },
+          {
+            "titulo": "Reabertura de matrícula",
+            "pagina": "13"
+          },
+          {
+            "titulo": "Transferência",
+            "pagina": "13"
+          },
+          {
+            "titulo": "Matrícula de disciplina isolada",
+            "pagina": "13"
+          },
+          {
+            "titulo": "Desistência ou abandono do curso",
+            "pagina": "14"
+          },
+          {
+            "titulo": "Sistema de avaliação",
+            "pagina": "14"
+          },
+          {
+            "titulo": "Segunda chamada",
+            "pagina": "15"
+          },
+          {
+            "titulo": "Frequência e abono de faltas",
+            "pagina": "15"
+          },
+          {
+            "titulo": "Tratamento especial",
+            "pagina": "16"
+          },
+          {
+            "titulo": "Equivalência",
+            "pagina": "17"
+          },
+          {
+            "titulo": "Pagamento das mensalidades",
+            "pagina": "17"
+          },
+          {
+            "titulo": "Exame Nacional de Desempenho de Estudantes",
+            "pagina": "17"
+          },
+          {
+            "titulo": "Canais de comunicação",
+            "pagina": "18"
+          },
+          {
+            "titulo": "Comissão Própria de Avaliação CPA",
+            "pagina": "18"
+          },
+          {
+            "titulo": "Conselho Superior - CONSUP",
+            "pagina": "18"
+          },
+          {
+            "titulo": "Núcleo Docente Estruturante - NDE",
+            "pagina": "18"
+          },
+          {
+            "titulo": "Colegiado",
+            "pagina": "18"
+          },
+          {
+            "titulo": "Colação de grau",
+            "pagina": "20"
+          },
+          {
+            "titulo": "Conduta ética",
+            "pagina": "20"
+          },
+          {
+            "titulo": "Direitos e deveres",
+            "pagina": "21"
+          },
+          {
+            "titulo": "Biblioteca",
+            "pagina": "21"
+          }
+        ]
+      },
+      {
+        "nomeDodocumento": "Regimento",
+        "descricaoPrevia": "Regiemnto interno da faculdade",
+        "sumario": [
+          {
+            "titulo": "TÍTULO I - DA FACULDADE",
+            "pagina": 5
+          },
+          {
+            "titulo": "TÍTULO II - DA FINALIDADE E SEUS OBJETIVOS",
+            "pagina": 6
+          },
+          {
+            "titulo": "TÍTULO III - DA ESTRUTURA ORGANIZACIONAL",
+            "pagina": 8
+          },
+          {
+            "titulo": "CAPÍTULO I – DO ÓRGÃO NORMATIVO",
+            "pagina": 8
+          },
+          {
+            "titulo": "CAPÍTULO II – DOS ÓRGÃOS DELIBERATIVOS",
+            "pagina": 10
+          },
+          {
+            "titulo": "Seção I – Conselho Superior",
+            "pagina": 10
+          },
+          {
+            "titulo": "Seção II – Colegiado de Cursos",
+            "pagina": 13
+          },
+          {
+            "titulo": "Seção III – Disposições comuns aos Órgãos Deliberativos",
+            "pagina": 14
+          },
+          {
+            "titulo": "CAPÍTULO III – DOS ÓRGÃOS EXECUTIVOS",
+            "pagina": 15
+          },
+          {
+            "titulo": "Seção I – Da Gerência Executiva",
+            "pagina": 15
+          },
+          {
+            "titulo": "Seção II – Órgãos de Apoio de Instância Administrativa",
+            "pagina": 17
+          },
+          {
+            "titulo": "CAPÍTULO IV – DAS DISPOSIÇÕES ESPECÍFICAS DOS ÓRGÃOS DE APOIO",
+            "pagina": 18
+          },
+          {
+            "titulo": "Seção I – Da Secretaria Acadêmica",
+            "pagina": 18
+          },
+          {
+            "titulo": "Subseção I – Da Central de Informações e Matrículas (CIM)",
+            "pagina": 20
+          },
+          {
+            "titulo": "Seção II – Da Biblioteca",
+            "pagina": 21
+          },
+          {
+            "titulo": "Seção III – Do Núcleo de Relacionamento com o Mercado",
+            "pagina": 22
+          },
+          {
+            "titulo": "Seção IV – Da Comissão de Processo Seletivo",
+            "pagina": 22
+          },
+          {
+            "titulo": "Seção V – Do Suporte à Tecnologia da Informação",
+            "pagina": 24
+          },
+          {
+            "titulo": "Seção VI – Do Apoio Financeiro",
+            "pagina": 24
+          },
+          {
+            "titulo": "CAPÍTULO V – DOS ÓRGÃOS DE EXECUÇÃO INTERMEDIÁRIOS",
+            "pagina": 25
+          },
+          {
+            "titulo": "Seção I – Da Coordenação de Curso de Graduação",
+            "pagina": 25
+          },
+          {
+            "titulo": "Seção II – Da Coordenação de Curso de Pós-Graduação, Programas e Projetos de Pesquisa e Extensão",
+            "pagina": 27
+          },
+          {
+            "titulo": "Seção III – Disposições comuns às Coordenações",
+            "pagina": 30
+          },
+          {
+            "titulo": "Seção IV – Do Órgão de Apoio de Instância Pedagógica",
+            "pagina": 30
+          },
+          {
+            "titulo": "Seção V – Do Núcleo de Apoio ao Discente – NAD",
+            "pagina": 31
+          },
+          {
+            "titulo": "CAPÍTULO VI – DOS ÓRGÃOS CONSULTIVOS",
+            "pagina": 32
+          },
+          {
+            "titulo": "Seção I – Do Núcleo Docente Estruturante – NDE",
+            "pagina": 32
+          },
+          {
+            "titulo": "Seção II – Da Comissão Própria de Avaliação – CPA",
+            "pagina": 34
+          },
+          {
+            "titulo": "Subseção I – Da Avaliação Interna",
+            "pagina": 35
+          },
+          {
+            "titulo": "Seção III – Disposições comuns aos Órgãos Consultivos",
+            "pagina": 36
+          },
+          {
+            "titulo": "CAPÍTULO VII – DOS CANAIS DE COMUNICAÇÃO",
+            "pagina": 36
+          },
+          {
+            "titulo": "Subseção I – Do Fale Conosco",
+            "pagina": 37
+          },
+          {
+            "titulo": "Subseção II – Da Ouvidoria",
+            "pagina": 37
+          },
+          {
+            "titulo": "TÍTULO IV - DA ATIVIDADE ACADÊMICA",
+            "pagina": 38
+          },
+          {
+            "titulo": "CAPÍTULO I – DA ACESSIBILIDADE",
+            "pagina": 38
+          },
+          {
+            "titulo": "CAPÍTULO II – DOS CURSOS E SUAS ESTRUTURAS",
+            "pagina": 38
+          },
+          {
+            "titulo": "Seção I – A Graduação",
+            "pagina": 40
+          },
+          {
+            "titulo": "Seção II – A Pós-Graduação",
+            "pagina": 41
+          },
+          {
+            "titulo": "CAPÍTULO III – DA PESQUISA E DA INICIAÇÃO ACADÊMICA",
+            "pagina": 42
+          },
+          {
+            "titulo": "Seção I – Da Seleção e Acompanhamento Discente nos Programas e Projetos de Pesquisa e Iniciação Acadêmica",
+            "pagina": 43
+          },
+          {
+            "titulo": "CAPÍTULO IV – DA EXTENSÃO",
+            "pagina": 44
+          },
+          {
+            "titulo": "Seção I – Da Seleção e Acompanhamento Discente nos Programas e Projetos de Extensão",
+            "pagina": 45
+          },
+          {
+            "titulo": "CAPÍTULO V – DOS AMBIENTES PEDAGÓGICOS",
+            "pagina": 46
+          },
+          {
+            "titulo": "TÍTULO V - DO REGIME ACADÊMICO",
+            "pagina": 47
+          },
+          {
+            "titulo": "CAPÍTULO I – DO ANO LETIVO",
+            "pagina": 47
+          },
+          {
+            "titulo": "CAPÍTULO II – DO ACESSO E INGRESSO",
+            "pagina": 47
+          },
+          {
+            "titulo": "Seção I – Do Acesso aos Cursos de Graduação",
+            "pagina": 47
+          },
+          {
+            "titulo": "Subseção I – Do Ingresso em Curso de Graduação por Processo Seletivo Agendado",
+            "pagina": 48
+          },
+          {
+            "titulo": "Subseção II – Do Ingresso em Curso de Graduação por Resultado do ENEM",
+            "pagina": 48
+          },
+          {
+            "titulo": "Subseção III – Do Ingresso em Curso de Graduação para Portador de Diploma de Ensino Superior",
+            "pagina": 49
+          },
+          {
+            "titulo": "Subseção IV – Do Ingresso em Curso de Graduação por Transferência",
+            "pagina": 49
+          },
+          {
+            "titulo": "Seção II – Do Acesso aos Cursos de Pós-Graduação",
+            "pagina": 50
+          },
+          {
+            "titulo": "Seção II – Do Acesso aos Cursos de Extensão",
+            "pagina": 50
+          },
+          {
+            "titulo": "CAPÍTULO III – DA MATRÍCULA",
+            "pagina": 50
+          },
+          {
+            "titulo": "Seção I – Da Matrícula nos Cursos de Graduação",
+            "pagina": 51
+          },
+          {
+            "titulo": "Subseção I – Da Renovação de Matrícula da Graduação",
+            "pagina": 52
+          },
+          {
+            "titulo": "Subseção II – Do Trancamento de Matrícula da Graduação",
+            "pagina": 53
+          },
+          {
+            "titulo": "Seção II – Da Matrícula nos cursos de Pós-Graduação",
+            "pagina": 53
+          },
+          {
+            "titulo": "Seção III – Da Matrícula nos Cursos de Extensão",
+            "pagina": 55
+          },
+          {
+            "titulo": "CAPÍTULO IV – DA TRANSFERÊNCIA E DO APROVEITAMENTO DE ESTUDOS",
+            "pagina": 56
+          },
+          {
+            "titulo": "Seção I – Da Transferência Emitida",
+            "pagina": 56
+          },
+          {
+            "titulo": "Seção II – Da Transferência Recebida",
+            "pagina": 56
+          },
+          {
+            "titulo": "Seção III – Do Aproveitamento de Estudos",
+            "pagina": 57
+          },
+          {
+            "titulo": "CAPÍTULO V – DO ABANDONO E DESLIGAMENTO DE CURSO",
+            "pagina": 58
+          },
+          {
+            "titulo": "CAPÍTULO VI – DO PROCESSO DE ENSINO E APRENDIZAGEM",
+            "pagina": 59
+          },
+          {
+            "titulo": "CAPÍTULO VII – DA AVALIAÇÃO DO RENDIMENTO ESCOLAR",
+            "pagina": 60
+          },
+          {
+            "titulo": "CAPÍTULO VIII – DAS FALTAS",
+            "pagina": 61
+          },
+          {
+            "titulo": "CAPÍTULO IX – DA PROMOÇÃO E RETENÇÃO",
+            "pagina": 62
+          },
+          {
+            "titulo": "CAPÍTULO X – DA REPROVAÇÃO",
+            "pagina": 62
+          },
+          {
+            "titulo": "CAPÍTULO XI – DA CONCLUSÃO DO CURSO",
+            "pagina": 63
+          },
+          {
+            "titulo": "TÍTULO VI - DA CERTIFICAÇÃO E DOCUMENTAÇÃO",
+            "pagina": 64
+          }
+        ]
+      }
+    ]
+  }
+  
